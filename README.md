@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohm2d
+- 👋 Hello, I’m Mohamed
 - 👀 I’m interested in web design.
 - 🌱 I’m currently learning html, css, javascript and much more.
 - 💞️ I’m looking to collaborate on many projects with different teams work.
